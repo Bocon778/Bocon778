@@ -19,4 +19,4 @@
 - ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
 
 ![WakatimeStats](https://github-readme-stats.vercel.app/api/wakatime?username=Bocon778)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bocon778?display_format=percent)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bocon778&display_format=percent)
