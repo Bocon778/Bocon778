@@ -1,6 +1,5 @@
 ### Hi, I'm Bocon. I enjoy playing games and creating useful tools for personal use. I'm currently interested in Business Administration & System Administration. 
 
-
 ## Languages 
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 - ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
@@ -19,3 +18,5 @@
 - ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 - ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
 
+![WakatimeStats](https://github-readme-stats.vercel.app/api/wakatime?username=Bocon778)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bocon778?display_format=percent)
