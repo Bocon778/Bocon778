@@ -25,6 +25,3 @@
 - ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)
 - ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
 - ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-
-![WakatimeStats](https://github-readme-stats.vercel.app/api/wakatime?username=Bocon778)
-![WakatimeStats](https://github-readme-stats.vercel.app/api/wakatime?username=Bocon778&display_format=percent)
