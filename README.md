@@ -1,27 +1,33 @@
-### Hi, I'm Bocon. I enjoy playing games and creating useful tools for personal use. I'm currently interested in Business Administration & System Administration. 
+# 👋 Hi, I'm Bocon 
 
-## Languages
+**Gaming Enthusiast** | **Tool Creator** | **Modding Explorer** 
 
-### Known
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+---
 
-### Learning 
-- ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-- ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+## 🛠️ Technologies
 
-## Databases
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**Languages**  
+![Node.js](https://img.shields.io/badge/-Node.js-2B2B2B?style=flat&logo=node.js&logoColor=339933) ![HTML](https://img.shields.io/badge/-HTML-2B2B2B?style=flat&logo=html5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/-CSS-2B2B2B?style=flat&logo=css3&logoColor=1572B6)  
+![Lua](https://img.shields.io/badge/-Lua-2B2B2B?style=flat&logo=lua&logoColor=2C2D72) ![C%23](https://img.shields.io/badge/-C%23-2B2B2B?style=flat&logo=sharp&logoColor=239120)
 
-## Linux
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-- ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2B2B2B?style=flat&logo=postgresql&logoColor=336791) ![MongoDB](https://img.shields.io/badge/-MongoDB-2B2B2B?style=flat&logo=mongodb&logoColor=47A248)
 
-## Tools
-- ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-- ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)
-- ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
-- ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+---
+
+## 🎮 Game Modding
+
+**Modding Toolkit**  
+![Unity](https://img.shields.io/badge/-Unity-2B2B2B?style=flat&logo=unity&logoColor=FFFFFF) ![ILSpy](https://img.shields.io/badge/-ILSpy-2B2B2B?style=flat&logo=.net&logoColor=512BD4) ![Asset%20Ripper](https://img.shields.io/badge/-Asset_Ripper-2B2B2B?style=flat&logo=unity&logoColor=FFFFFF)
+
+**Mod Distribution**  
+![Steam%20Workshop](https://img.shields.io/badge/-Steam_Workshop-2B2B2B?style=flat&logo=steam&logoColor=FFFFFF) ![Thunderstore](https://img.shields.io/badge/-Thunderstore-2B2B2B?style=flat&logo=thunderstore&logoColor=23FFB0)
+---
+
+## 🐧 DevOps & Tools
+
+**Linux Stack**  
+![Docker](https://img.shields.io/badge/-Docker-2B2B2B?style=flat&logo=docker&logoColor=2496ED) ![Debian](https://img.shields.io/badge/-Debian-2B2B2B?style=flat&logo=debian&logoColor=A81D33) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-2B2B2B?style=flat&logo=ubuntu&logoColor=E95420)
+
+**Development Tools**  
+![VS%20Code](https://img.shields.io/badge/-VS_Code-2B2B2B?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Visual%20Studio](https://img.shields.io/badge/-Visual_Studio-2B2B2B?style=flat&logo=visual-studio&logoColor=5C2D91)
