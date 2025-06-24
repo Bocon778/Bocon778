@@ -1,6 +1,19 @@
-# 👋 Hi, I'm Bocon 
+# 👋 Hi, I'm Bocon
 
-**Gaming Enthusiast** | **Tool Creator** | **Modding Explorer** 
+---
+
+## 🚀 Thunderstore Stats
+
+<div align="center">
+
+| 🛠️ Project      | 📥 Downloads |
+|-----------------|:------------:|
+| [StatManager](https://thunderstore.io/c/repo/p/Bocon/StatManager/)     | [![StatManager](https://img.shields.io/thunderstore/dt/Bocon/StatManager?logo=thunderstore&color=%2323FFB0)](https://thunderstore.io/c/repo/p/Bocon/StatManager/) |
+| [PlayerTags](https://thunderstore.io/c/repo/p/Bocon/PlayerTags/)       | [![PlayerTags](https://img.shields.io/thunderstore/dt/Bocon/PlayerTags?logo=thunderstore&color=%2323FFB0)](https://thunderstore.io/c/repo/p/Bocon/PlayerTags/)   |
+| [WaterBottles](https://thunderstore.io/c/repo/p/Bocon/WaterBottles/)   | [![WaterBottles](https://img.shields.io/thunderstore/dt/Bocon/WaterBottles?logo=thunderstore&color=%2323FFB0)](https://thunderstore.io/c/repo/p/Bocon/WaterBottles/) |
+| [CartDuplicator](https://thunderstore.io/c/repo/p/Bocon/CartDuplicator/)| [![CartDuplicator](https://img.shields.io/thunderstore/dt/Bocon/CartDuplicator?logo=thunderstore&color=%2323FFB0)](https://thunderstore.io/c/repo/p/Bocon/CartDuplicator/) |
+
+</div>
 
 ---
 
@@ -22,6 +35,7 @@
 
 **Mod Distribution**  
 ![Steam%20Workshop](https://img.shields.io/badge/-Steam_Workshop-2B2B2B?style=flat&logo=steam&logoColor=FFFFFF) ![Thunderstore](https://img.shields.io/badge/-Thunderstore-2B2B2B?style=flat&logo=thunderstore&logoColor=23FFB0)
+
 ---
 
 ## 🐧 DevOps & Tools
