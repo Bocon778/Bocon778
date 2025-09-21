@@ -6,6 +6,7 @@ I'm a developer mostly making passion projects, and tools that I want to see mad
 - JavaScript
 - TypeScript
 - Next.js
+- NestJS
 - AutoHotkey
 - C#
 - Lua
