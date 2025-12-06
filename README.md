@@ -12,7 +12,7 @@ I'm a developer mostly making passion projects, and tools that I want to see mad
 - Lua
 
 **Favorite project:**  
-[@BloxBind](https://github.com/BloxBind) -> Building a free solution for Roblox verification.
+[@Bloxbind](https://github.com/BloxBind) -> Building a free solution for Roblox verification.
 
 **Hobbies:**
 - System administration
