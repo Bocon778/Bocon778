@@ -17,8 +17,8 @@ I'm a developer mostly making passion projects, and tools that I want to see mad
 **Hobbies:**
 - System administration
 - Networking
-- Gaming (Open World & Story Games)
-- Swimming (Specifically in creeks!)
+- Gaming
+- Swimming
 
 ---
 
@@ -33,14 +33,5 @@ Check out some of my public releases:
 | [PlayerTags](https://thunderstore.io/c/repo/p/Bocon/PlayerTags/)       | [![PlayerTags](https://img.shields.io/thunderstore/dt/Bocon/PlayerTags?logo=thunderstore&color=%2323FFB0)](https://thunderstore.io/c/repo/p/Bocon/PlayerTags/)   |
 | [WaterBottles](https://thunderstore.io/c/repo/p/Bocon/WaterBottles/)   | [![WaterBottles](https://img.shields.io/thunderstore/dt/Bocon/WaterBottles?logo=thunderstore&color=%2323FFB0)](https://thunderstore.io/c/repo/p/Bocon/WaterBottles/) |
 | [CartDuplicator](https://thunderstore.io/c/repo/p/Bocon/CartDuplicator/)| [![CartDuplicator](https://img.shields.io/thunderstore/dt/Bocon/CartDuplicator?logo=thunderstore&color=%2323FFB0)](https://thunderstore.io/c/repo/p/Bocon/CartDuplicator/) |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bocon778&show_icons=true&theme=github_dark" alt="Bocon778's GitHub stats" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bocon778&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
 
 ---
